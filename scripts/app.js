@@ -27,10 +27,14 @@ class CharacterGallery {
     document
       .getElementById("view-team-btn")
       .addEventListener("click", () => this.toggleTeamDisplay());
+    document
+      .getElementById("search-input")
+      .addEventListener("input", () => this.loadCharacters());
   }
 
   switchGame(game) {
     this.currentGame = game;
+    document.getElementById("search-input").value = "";
     this.loadRegions();
     this.loadCharacters();
     this.updateTeamDisplay();
@@ -50,9 +54,14 @@ class CharacterGallery {
   async loadCharacters() {
     const characterGrid = document.getElementById("character-grid");
     const selectedRegion = document.getElementById("region-select").value;
+    const searchTerm = document
+      .getElementById("search-input")
+      .value.toLowerCase()
+      .trim();
     const characters = await this.fetchCharacters(
       this.currentGame,
-      selectedRegion
+      selectedRegion,
+      searchTerm
     );
 
     characterGrid.innerHTML = characters
@@ -82,13 +91,21 @@ class CharacterGallery {
     return [...new Set(data.map((char) => char.region))];
   }
 
-  async fetchCharacters(game, region) {
+  async fetchCharacters(game, region, searchTerm = "") {
     const data = await fetch(`data/${game}-characters.json`).then((r) =>
       r.json()
     );
-    return region === "ALL"
-      ? data
-      : data.filter((char) => char.region === region);
+
+    let filteredData =
+      region === "ALL" ? data : data.filter((char) => char.region === region);
+
+    if (searchTerm) {
+      filteredData = filteredData.filter((char) =>
+        char.name.toLowerCase().includes(searchTerm)
+      );
+    }
+
+    return filteredData;
   }
 
   showCharacterDetail(card) {

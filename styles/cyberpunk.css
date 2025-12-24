@@ -140,6 +140,27 @@ body {
   border-color: var(--secondary-color);
 }
 
+#search-input {
+  padding: 0.5rem;
+  background: rgba(0, 255, 255, 0.1);
+  border: 2px solid var(--primary-color);
+  color: var(--text-color);
+  font-family: "Cyberpunk", monospace;
+  outline: none;
+  transition: all 0.3s ease;
+  min-width: 200px;
+}
+
+#search-input:focus {
+  border-color: var(--secondary-color);
+  box-shadow: 0 0 10px var(--primary-color);
+}
+
+#search-input::placeholder {
+  color: var(--primary-color);
+  opacity: 0.7;
+}
+
 .team-display {
   margin-top: 2rem;
   padding: 1rem;

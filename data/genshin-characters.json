@@ -1,32 +1,552 @@
 [
   {
-    "name": "Kaeya",
+    "name": "Venti",
     "region": "Mondstadt",
-    "imageUrl": "https://pbs.twimg.com/media/G66o-4jW8AAWopL?format=jpg&name=4096x4096"
+    "imageUrl": "https://pbs.twimg.com/media/GtiWADFXgAAaAGX?format=jpg&name=4096x4096"
   },
   {
-    "name": "Ganyu",
+    "name": "Zhongli",
     "region": "Liyue",
-    "imageUrl": "https://pbs.twimg.com/media/G7IfNlGWYAAYTin?format=jpg&name=4096x4096"
+    "imageUrl": "https://pbs.twimg.com/media/GgGBbCIbYAIoLo5?format=jpg&name=4096x4096"
   },
   {
-    "name": "Gaming",
-    "region": "Mondstadt",
-    "imageUrl": "https://pbs.twimg.com/media/G8vYJKVWIAAXu-D?format=jpg&name=4096x4096"
+    "name": "Raiden Shogun",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/GuV148YWQAAoR9E?format=jpg&name=4096x4096"
   },
   {
-    "name": "Dori",
-    "region": "Mondstadt",
-    "imageUrl": "https://pbs.twimg.com/media/G8o_0ctXwAAqxZD?format=jpg&name=4096x4096"
+    "name": "Nahida",
+    "region": "Sumeru",
+    "imageUrl": "https://pbs.twimg.com/media/G4O6_cTWgAA6B8l?format=jpg&name=4096x4096"
   },
   {
-    "name": "Layla",
+    "name": "Furina",
+    "region": "Fontaine",
+    "imageUrl": "https://pbs.twimg.com/media/G3G8-dAW0AAc5oy?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Mavuika",
+    "region": "Natlan",
+    "imageUrl": "https://pbs.twimg.com/media/GzaSDCbWUAA2DKE?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Columbina Hyposelenia",
+    "region": "Nod-Krai",
+    "imageUrl": ""
+  },
+  {
+    "name": "Mona",
     "region": "Mondstadt",
-    "imageUrl": "https://pbs.twimg.com/media/G8f_f4LW0AAK0YP?format=jpg&name=4096x4096"
+    "imageUrl": "https://pbs.twimg.com/media/Gzpu0zGXsAEac5I?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Xiao",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/GotJJ_EacAQ3bt9?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Yae Miko",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/Gua_emWWMAIdYKA?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Alhaitham",
+    "region": "Sumeru",
+    "imageUrl": "https://pbs.twimg.com/media/GjeREC4bcAA99hN?format=jpg&name=4096x4096"
   },
   {
     "name": "Neuvillette",
     "region": "Fontaine",
     "imageUrl": "https://pbs.twimg.com/media/G8avfo5XAAAf43W?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Citlali",
+    "region": "Natlan",
+    "imageUrl": "https://pbs.twimg.com/media/GhtOiUQasAAVCaZ?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Xilonen",
+    "region": "Natlan",
+    "imageUrl": "https://pbs.twimg.com/media/Gl45zICbYAErI-J?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Kaeya",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/G66o-4jW8AAWopL?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Gaming",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/G8vYJKVWIAAXu-D?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Dori",
+    "region": "Sumeru",
+    "imageUrl": "https://pbs.twimg.com/media/G8o_0ctXwAAqxZD?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Layla",
+    "region": "Sumeru",
+    "imageUrl": "https://pbs.twimg.com/media/GfITRDRbYAAxS8l?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Chasca",
+    "region": "Natlan",
+    "imageUrl": "https://pbs.twimg.com/media/G7xl-0hWAAAVfhH?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Kaedehara Kazuha",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/G4ZTqyiXoAAR7Kq?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Eula",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/G4BmLtAXEAAK8CS?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Sayu",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/G3jZCsOXwAA2bk8?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Skirk",
+    "region": "Abyss",
+    "imageUrl": "https://pbs.twimg.com/media/G49U9gCWUAAKprI?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Xiangling",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/G4rSBitXQAEgDqw?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Flins",
+    "region": "Nod-Krai",
+    "imageUrl": "https://pbs.twimg.com/media/G4jnw-lWkAALU15?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Kinich",
+    "region": "Natlan",
+    "imageUrl": "https://pbs.twimg.com/media/G5cNIN6WoAAvXGg?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Varesa",
+    "region": "Natlan",
+    "imageUrl": "https://pbs.twimg.com/media/G5teK8IXAAA_Tx5?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Keqing",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/G6Kk0GbW0AApwYA?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Wriothesley",
+    "region": "Fontaine",
+    "imageUrl": "https://pbs.twimg.com/media/G6V1yVsWYAAg1ZM?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Sucrose",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/G6peWd1WoAAEGCJ?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Nilou",
+    "region": "Sumeru",
+    "imageUrl": "https://pbs.twimg.com/media/G7NlmS6XsAAXwe7?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Xinyan",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/G3WY1D9XMAAsZqj?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Ororon",
+    "region": "Natlan",
+    "imageUrl": "https://pbs.twimg.com/media/G3MDXJxWYAEohjd?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Xingqiu",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/G2yVtCBXkAAIOui?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Kamisato Ayaka",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/G15sNeyWgAAIoMU?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Freminet",
+    "region": "Fontaine",
+    "imageUrl": "https://pbs.twimg.com/media/G1lU-SSXcAAmalT?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Emilie",
+    "region": "Fontaine",
+    "imageUrl": "https://pbs.twimg.com/media/G1bBykpWIAAZXO5?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Clorinde",
+    "region": "Fontaine",
+    "imageUrl": "https://pbs.twimg.com/media/G1QunHsX0AAIV-W?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Albedo",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/G0sre-fXIAI4Y9A?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Razor",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/G0YFIRPWoAAq-YG?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Chongyun",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/G0Nx8uCXQAAVzMm?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Ningguang",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/GzP-3yyWwAANX0b?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Arlecchino",
+    "region": "Snezhnaya",
+    "imageUrl": "https://pbs.twimg.com/media/Gy7YgQXXcAAIxMw?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Faruzan",
+    "region": "Sumeru",
+    "imageUrl": "https://pbs.twimg.com/media/GyxFUvyXcAAT8Li?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Chiori",
+    "region": "Fontaine",
+    "imageUrl": "https://pbs.twimg.com/media/GyhojdEWEAADQsz?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Navia",
+    "region": "Fontaine",
+    "imageUrl": "https://pbs.twimg.com/media/Gyce9oLW0AAnSoQ?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Mika",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/GyCvBS7WYAAJsQn?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Amber",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/Gx9lcqmXsAIVjk0?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Iansan",
+    "region": "Natlan",
+    "imageUrl": "https://pbs.twimg.com/media/GxzSP9MXMAAjo3P?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Mualani",
+    "region": "Natlan",
+    "imageUrl": "https://pbs.twimg.com/media/GxZiTUlWAAAyW4o?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Yanfei",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/Gw6owogXQAAvgEs?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Klee",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/Gw1fLrpXEAA5Liu?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Kuki Shinobu",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/Gw1fLtJXAAALUDI?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Shikanoin Heizou",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/GwmCZb0XUAAfwXt?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Tartaglia",
+    "region": "Snezhnaya",
+    "imageUrl": "https://pbs.twimg.com/media/GwRcCxSXoAAAs4m?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "HuTao",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/Gv3sFp0XIAEQOVk?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Kujou Sara",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/GvyigBjWwAEZuB2?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Kaveh",
+    "region": "Sumeru",
+    "imageUrl": "https://pbs.twimg.com/media/GvYyjfoWEAAoeng?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Barbara",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/GvEMMLHXoAANCLP?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Cyno",
+    "region": "Sumeru",
+    "imageUrl": "https://pbs.twimg.com/media/GuGZHirWUAAm_zs?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Yoimiya",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/Gt8F78YWkAAFA5s?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Lisa",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/Gs-S2-KXEAA2kHn?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Escoffier",
+    "region": "Fontaine",
+    "imageUrl": "https://pbs.twimg.com/media/Gs5JRtSWwAAJIyb?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Arataki Itto",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/GsVHSAyXQAA-VVR?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Sethos",
+    "region": "Sumeru",
+    "imageUrl": "https://pbs.twimg.com/media/GsP8jIrXEAA6jHf?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Fischl",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/Gr7WMRmWMAI6inC?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Yun Jin",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/Grccp02XgAA8cQT?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Gorou",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/GrM_4L-XEAAoWdq?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Collei",
+    "region": "Sumeru",
+    "imageUrl": "https://pbs.twimg.com/media/GqZf-8aXwAACmNk?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Candace",
+    "region": "Sumeru",
+    "imageUrl": "https://pbs.twimg.com/media/Gp_wCHYXkAA-RGI?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Diluc",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/GpwTRDnXkAAOoIa?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Baizhu",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/GpWjUzJXcAAGQTo?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Kachina",
+    "region": "Natlan",
+    "imageUrl": "https://pbs.twimg.com/media/GpHGjpEWcAA-vDR?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Yelan",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/Go8dJQLbwAAPAnd?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Xianyun",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/GoONjSnaUAAyqtR?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Charlotte",
+    "region": "Fontaine",
+    "imageUrl": "https://pbs.twimg.com/media/GoJCfGTbwAAQSfW?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Dehya",
+    "region": "Sumeru",
+    "imageUrl": "https://pbs.twimg.com/media/Gn5leekbIAAFxuX?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Sigewinne",
+    "region": "Fontaine",
+    "imageUrl": "https://pbs.twimg.com/media/GnHTfDkbsAAD2e-?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Kamisato Ayato",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/Gm73mjdbYAACpMn?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Noelle",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/GmiCtn3aEAMvRhC?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Ymemizuki Mizuki",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/GmAT7mVaUAAK5Lg?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Jean",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/Gl-AXaJaQAA_cSg?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Ganyu",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/Gdwr4G2aYAAdZ7a?format=jpg&name=medium"
+  },
+  {
+    "name": "Shenhe",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/GlphxeBbUAAad_0?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Yaoyao",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/GlUv1tLWcAABNL_?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Qiqi",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/GlFaYKQaAAAE9Z9?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Bennett",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/Gk11x9dWEAAwDmy?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Sangonomiya Kokomi",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/GkTBBpTbUAIciwl?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Beidou",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/GjtzE3VacAEelXg?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Lynette",
+    "region": "Fontaine",
+    "imageUrl": "https://pbs.twimg.com/media/Giq7B__bYAQQGmG?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Lyney",
+    "region": "Fontaine",
+    "imageUrl": "https://pbs.twimg.com/media/Giq4vkVbAAAv1lO?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Rosaria",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/GiBsRuObIAEDSgz?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Kirara",
+    "region": "Sumeru",
+    "imageUrl": "https://pbs.twimg.com/media/Gh3ZH5vawAAqVpn?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Diona",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/GhfE_dlacAYwyLK?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Chevreuse",
+    "region": "Fontaine",
+    "imageUrl": "https://pbs.twimg.com/media/Gg5iLwuaMAI1qKc?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Thoma",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/Gg0X2FvaMAAKfLi?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Wanderer",
+    "region": "Sumeru",
+    "imageUrl": "https://pbs.twimg.com/media/GgVgO-obIAAUSn3?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Tighnari",
+    "region": "Sumeru",
+    "imageUrl": "https://pbs.twimg.com/media/Gfzwr3Ya4AA37pU?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Zibai",
+    "region": "Liyue",
+    "imageUrl": ""
+  },
+  {
+    "name": "Illuga",
+    "region": "Nod-Krai",
+    "imageUrl": ""
+  },
+  {
+    "name": "Aloy",
+    "region": "Void",
+    "imageUrl": ""
+  },
+  {
+    "name": "Durin",
+    "region": "Nod-Krai",
+    "imageUrl": ""
+  },
+  {
+    "name": "Ineffa",
+    "region": "Nod-Krai",
+    "imageUrl": ""
+  },
+  {
+    "name": "Lauma",
+    "region": "Nod-Krai",
+    "imageUrl": ""
+  },
+  {
+    "name": "Nefer",
+    "region": "Nod-Krai",
+    "imageUrl": ""
+  },
+  {
+    "name": "Dahlia",
+    "region": "Void",
+    "imageUrl": ""
+  },
+  {
+    "name": "Ifa",
+    "region": "Void",
+    "imageUrl": ""
+  },
+  {
+    "name": "Jahoda",
+    "region": "Nod-Krai",
+    "imageUrl": ""
+  },
+  {
+    "name": "Lan Yan",
+    "region": "Void",
+    "imageUrl": ""
+  },
+  {
+    "name": "Dainsleif",
+    "region": "Khaenri'ah",
+    "imageUrl": ""
   }
 ]
