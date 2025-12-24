@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Kaeya",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/G66o-4jW8AAWopL?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Ganyu",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/G7IfNlGWYAAYTin?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Gaming",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/G8vYJKVWIAAXu-D?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Dori",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/G8o_0ctXwAAqxZD?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Layla",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/G8f_f4LW0AAK0YP?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Neuvillette",
+    "region": "Fontaine",
+    "imageUrl": "https://pbs.twimg.com/media/G8avfo5XAAAf43W?format=jpg&name=4096x4096"
+  }
+]

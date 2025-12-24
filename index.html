@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Cyberpunk Character Gallery</title>
+    <link rel="stylesheet" href="styles/cyberpunk.css" />
+    <link rel="stylesheet" href="styles/responsive.css" />
+  </head>
+  <body>
+    <div class="cyberpunk-container">
+      <nav class="game-toggle">
+        <button id="genshin-toggle">Genshin Impact</button>
+        <button id="zzz-toggle">Zenless Zone Zero</button>
+      </nav>
+
+      <div class="region-selector">
+        <select id="region-select">
+          <!-- Dynamically populated -->
+        </select>
+        <button id="view-team-btn">View Team</button>
+      </div>
+
+      <div id="team-display" class="team-display hidden">
+        <h3>Your Team</h3>
+        <div id="team-members" class="team-members">
+          <!-- Team members will be displayed here -->
+        </div>
+      </div>
+
+      <div id="character-grid" class="character-grid">
+        <!-- Characters will be dynamically loaded here -->
+      </div>
+    </div>
+
+    <div id="character-detail" class="character-detail hidden">
+      <div class="detail-card">
+        <button id="close-detail">X</button>
+        <img id="detail-img" src="" alt="" />
+        <h3 id="detail-name"></h3>
+        <p id="detail-region"></p>
+        <button id="team-btn">ADD TO TEAM</button>
+      </div>
+    </div>
+
+    <script src="scripts/app.js"></script>
+    <script src="scripts/character-loader.js"></script>
+  </body>
+</html>
