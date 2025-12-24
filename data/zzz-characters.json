@@ -20,22 +20,32 @@
     "imageUrl": "https://pbs.twimg.com/media/G1V7nQRWUAA87Jg?format=jpg&name=large"
   },
   {
+    "name": "Caesar King",
+    "region": "Sons of Calydon",
+    "imageUrl": "https://pbs.twimg.com/media/GmIjtYaWEAA633b?format=jpg&name=large"
+  },
+  {
+    "name": "Koleda Belobog",
+    "region": "Belobog Heavy Industries",
+    "imageUrl": "https://pbs.twimg.com/media/Gx9lbZZWYAAWC7x?format=jpg&name=large"
+  },
+  {
     "name": "Soukaku",
     "region": "Hollow Special Operations Section 6",
     "imageUrl": "https://pbs.twimg.com/media/Gh56-OsaIAAxxeJ?format=png&name=large"
   },
   {
-    "name": "Ye Shunguang",
-    "region": "Yunkui Summit",
-    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/94/Agent_Ye_Shunguang_Icon.png/"
-  },
-  {
     "name": "Zhao",
     "region": "Krampus Compliance Authority",
-    "imageUrl": ""
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a6/Agent_Zhao_Portrait.png/"
   },
   {
     "name": "Pan Yinhu",
+    "region": "Yunkui Summit",
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/8/87/Agent_Pan_Yinhu_Portrait.png/"
+  },
+  {
+    "name": "Ye Shunguang",
     "region": "Yunkui Summit",
     "imageUrl": ""
   },
@@ -70,9 +80,9 @@
     "imageUrl": "https://pbs.twimg.com/media/GsaWk18WIAAgDOH?format=jpg&name=large"
   },
   {
-    "name": "Nekomiya Mana",
-    "region": "Cunning Hares",
-    "imageUrl": "https://pbs.twimg.com/media/GxE78VQWEAA3eFv?format=jpg&name=large"
+    "name": "Zhu Yuan",
+    "region": "Criminal Investigation Special Response Team",
+    "imageUrl": "https://pbs.twimg.com/media/Gzu70O0WwAAsfkb?format=jpg&name=large"
   },
   {
     "name": "Nicole Demara",
@@ -83,6 +93,11 @@
     "name": "Anby Demara",
     "region": "Cunning Hares",
     "imageUrl": "https://pbs.twimg.com/media/GkJYIxhbkAAn2yX?format=jpg&name=large"
+  },
+  {
+    "name": "Nekomiya Mana",
+    "region": "Cunning Hares",
+    "imageUrl": "https://pbs.twimg.com/media/GxE78VQWEAA3eFv?format=jpg&name=large"
   },
   {
     "name": "Piper Wheel",
@@ -190,11 +205,6 @@
     "imageUrl": "https://pbs.twimg.com/media/GgLGSnGbYAAzxYL?format=jpg&name=large"
   },
   {
-    "name": "Zhu Yuan",
-    "region": "Criminal Investigation Special Response Team",
-    "imageUrl": "https://pbs.twimg.com/media/Gzu70O0WwAAsfkb?format=jpg&name=large"
-  },
-  {
     "name": "Trigger",
     "region": "Defense Force - Obol Squad",
     "imageUrl": "https://pbs.twimg.com/media/GpBhgsmbkAAlOJp?format=jpg&name=large"
@@ -218,16 +228,6 @@
     "name": "Burnice White",
     "region": "Sons of Calydon",
     "imageUrl": "https://pbs.twimg.com/media/Grmv1LvWIAAUG8U?format=jpg&name=large"
-  },
-  {
-    "name": "Caesar King",
-    "region": "Sons of Calydon",
-    "imageUrl": "https://pbs.twimg.com/media/GmIjtYaWEAA633b?format=jpg&name=large"
-  },
-  {
-    "name": "Koleda Belobog",
-    "region": "Belobog Heavy Industries",
-    "imageUrl": "https://pbs.twimg.com/media/Gx9lbZZWYAAWC7x?format=jpg&name=large"
   },
   {
     "name": "Ellen Joe",
