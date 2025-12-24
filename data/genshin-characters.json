@@ -500,11 +500,6 @@
     "imageUrl": ""
   },
   {
-    "name": "Aloy",
-    "region": "Void",
-    "imageUrl": ""
-  },
-  {
     "name": "Durin",
     "region": "Nod-Krai",
     "imageUrl": ""
@@ -526,12 +521,12 @@
   },
   {
     "name": "Dahlia",
-    "region": "Void",
+    "region": "Mondstadt",
     "imageUrl": ""
   },
   {
     "name": "Ifa",
-    "region": "Void",
+    "region": "Natlan",
     "imageUrl": ""
   },
   {
@@ -541,7 +536,7 @@
   },
   {
     "name": "Lan Yan",
-    "region": "Void",
+    "region": "Liyue",
     "imageUrl": ""
   },
   {
