@@ -37,17 +37,17 @@
   {
     "name": "Mona",
     "region": "Mondstadt",
-    "imageUrl": "https://pbs.twimg.com/media/Gzpu0zGXsAEac5I?format=jpg&name=4096x4096"
+    "imageUrl": "https://pbs.twimg.com/media/GWSA9-iWoAAX-W2?format=jpg&name=4096x4096"
   },
   {
     "name": "Xiao",
     "region": "Liyue",
-    "imageUrl": "https://pbs.twimg.com/media/GotJJ_EacAQ3bt9?format=jpg&name=4096x4096"
+    "imageUrl": "https://pbs.twimg.com/media/EzG2pXXVoAAcdGt?format=jpg&name=4096x4096"
   },
   {
     "name": "Yae Miko",
     "region": "Inazuma",
-    "imageUrl": "https://pbs.twimg.com/media/Gua_emWWMAIdYKA?format=jpg&name=4096x4096"
+    "imageUrl": "https://pbs.twimg.com/media/FWOob5vVEAAAAS8?format=jpg&name=4096x4096"
   },
   {
     "name": "Alhaitham",
@@ -97,7 +97,7 @@
   {
     "name": "Kaedehara Kazuha",
     "region": "Inazuma",
-    "imageUrl": "https://pbs.twimg.com/media/G4ZTqyiXoAAR7Kq?format=jpg&name=4096x4096"
+    "imageUrl": "https://pbs.twimg.com/media/GbB4eryWQAAu57j?format=jpg&name=4096x4096"
   },
   {
     "name": "Eula",
@@ -117,10 +117,10 @@
   {
     "name": "Xiangling",
     "region": "Liyue",
-    "imageUrl": "https://pbs.twimg.com/media/G4rSBitXQAEgDqw?format=jpg&name=4096x4096"
+    "imageUrl": "https://pbs.twimg.com/media/FDJ7iBYVkAoJMxT?format=jpg&name=4096x4096"
   },
   {
-    "name": "Flins",
+    "name": "Kyryll Chudomirovich Flins",
     "region": "Nod-Krai",
     "imageUrl": "https://pbs.twimg.com/media/G4jnw-lWkAALU15?format=jpg&name=4096x4096"
   },
@@ -238,6 +238,11 @@
     "name": "Mika",
     "region": "Mondstadt",
     "imageUrl": "https://pbs.twimg.com/media/GyCvBS7WYAAJsQn?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Aino",
+    "region": "Nod-Krai",
+    "imageUrl": ""
   },
   {
     "name": "Amber",
