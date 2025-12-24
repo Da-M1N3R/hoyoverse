@@ -125,6 +125,11 @@
     "imageUrl": "https://pbs.twimg.com/media/G4jnw-lWkAALU15?format=jpg&name=4096x4096"
   },
   {
+    "name": "Lauma",
+    "region": "Nod-Krai",
+    "imageUrl": ""
+  },
+  {
     "name": "Kinich",
     "region": "Natlan",
     "imageUrl": "https://pbs.twimg.com/media/G5cNIN6WoAAvXGg?format=jpg&name=4096x4096"
@@ -506,11 +511,6 @@
   },
   {
     "name": "Ineffa",
-    "region": "Nod-Krai",
-    "imageUrl": ""
-  },
-  {
-    "name": "Lauma",
     "region": "Nod-Krai",
     "imageUrl": ""
   },
