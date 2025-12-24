@@ -10,7 +10,7 @@
     "imageUrl": "https://pbs.twimg.com/media/GgGBbCIbYAIoLo5?format=jpg&name=4096x4096"
   },
   {
-    "name": "Raiden Shogun",
+    "name": "Raiden Ei",
     "region": "Inazuma",
     "imageUrl": "https://pbs.twimg.com/media/GuV148YWQAAoR9E?format=jpg&name=4096x4096"
   },
@@ -20,7 +20,7 @@
     "imageUrl": "https://pbs.twimg.com/media/G4O6_cTWgAA6B8l?format=jpg&name=4096x4096"
   },
   {
-    "name": "Furina",
+    "name": "Furina de Fontaine",
     "region": "Fontaine",
     "imageUrl": "https://pbs.twimg.com/media/G3G8-dAW0AAc5oy?format=jpg&name=4096x4096"
   },
@@ -35,7 +35,7 @@
     "imageUrl": ""
   },
   {
-    "name": "Mona",
+    "name": "Astrologist Mona Megistus",
     "region": "Mondstadt",
     "imageUrl": "https://pbs.twimg.com/media/GWSA9-iWoAAX-W2?format=jpg&name=4096x4096"
   },
@@ -70,12 +70,12 @@
     "imageUrl": "https://pbs.twimg.com/media/Gl45zICbYAErI-J?format=jpg&name=4096x4096"
   },
   {
-    "name": "Kaeya",
+    "name": "Kaeya Alberich",
     "region": "Mondstadt",
     "imageUrl": "https://pbs.twimg.com/media/G66o-4jW8AAWopL?format=jpg&name=4096x4096"
   },
   {
-    "name": "Gaming",
+    "name": "Yip Gaming",
     "region": "Liyue",
     "imageUrl": "https://pbs.twimg.com/media/G8vYJKVWIAAXu-D?format=jpg&name=4096x4096"
   },
@@ -100,7 +100,7 @@
     "imageUrl": "https://pbs.twimg.com/media/GbB4eryWQAAu57j?format=jpg&name=4096x4096"
   },
   {
-    "name": "Eula",
+    "name": "Eula Lawrence",
     "region": "Mondstadt",
     "imageUrl": "https://pbs.twimg.com/media/G4BmLtAXEAAK8CS?format=jpg&name=4096x4096"
   },
@@ -230,12 +230,12 @@
     "imageUrl": "https://pbs.twimg.com/media/GyhojdEWEAADQsz?format=jpg&name=4096x4096"
   },
   {
-    "name": "Navia",
+    "name": "Navia Caspar",
     "region": "Fontaine",
     "imageUrl": "https://pbs.twimg.com/media/Gyce9oLW0AAnSoQ?format=jpg&name=4096x4096"
   },
   {
-    "name": "Mika",
+    "name": "Mika Schmidt",
     "region": "Mondstadt",
     "imageUrl": "https://pbs.twimg.com/media/GyCvBS7WYAAJsQn?format=jpg&name=4096x4096"
   },
@@ -300,7 +300,7 @@
     "imageUrl": "https://pbs.twimg.com/media/GvYyjfoWEAAoeng?format=jpg&name=4096x4096"
   },
   {
-    "name": "Barbara",
+    "name": "Barbara Pegg",
     "region": "Mondstadt",
     "imageUrl": "https://pbs.twimg.com/media/GvEMMLHXoAANCLP?format=jpg&name=4096x4096"
   },
@@ -315,7 +315,7 @@
     "imageUrl": "https://pbs.twimg.com/media/Gt8F78YWkAAFA5s?format=jpg&name=4096x4096"
   },
   {
-    "name": "Lisa",
+    "name": "Lisa Minci",
     "region": "Mondstadt",
     "imageUrl": "https://pbs.twimg.com/media/Gs-S2-KXEAA2kHn?format=jpg&name=4096x4096"
   },
@@ -335,7 +335,7 @@
     "imageUrl": "https://pbs.twimg.com/media/GsP8jIrXEAA6jHf?format=jpg&name=4096x4096"
   },
   {
-    "name": "Fischl",
+    "name": "Fischl von Luftschloss Narfidort",
     "region": "Mondstadt",
     "imageUrl": "https://pbs.twimg.com/media/Gr7WMRmWMAI6inC?format=jpg&name=4096x4096"
   },
@@ -360,7 +360,7 @@
     "imageUrl": "https://pbs.twimg.com/media/Gp_wCHYXkAA-RGI?format=jpg&name=4096x4096"
   },
   {
-    "name": "Diluc",
+    "name": "Diluc Ragnvindr",
     "region": "Mondstadt",
     "imageUrl": "https://pbs.twimg.com/media/GpwTRDnXkAAOoIa?format=jpg&name=4096x4096"
   },
@@ -410,12 +410,12 @@
     "imageUrl": "https://pbs.twimg.com/media/GmiCtn3aEAMvRhC?format=jpg&name=4096x4096"
   },
   {
-    "name": "Ymemizuki Mizuki",
+    "name": "Yumemizuki Mizuki",
     "region": "Inazuma",
     "imageUrl": "https://pbs.twimg.com/media/GmAT7mVaUAAK5Lg?format=jpg&name=4096x4096"
   },
   {
-    "name": "Jean",
+    "name": "Jean Gunnhildr",
     "region": "Mondstadt",
     "imageUrl": "https://pbs.twimg.com/media/Gl-AXaJaQAA_cSg?format=jpg&name=4096x4096"
   },
@@ -472,7 +472,7 @@
   {
     "name": "Kirara",
     "region": "Sumeru",
-    "imageUrl": "https://pbs.twimg.com/media/Gh3ZH5vawAAqVpn?format=jpg&name=4096x4096"
+    "imageUrl": "https://pbs.twimg.com/media/GEaslG2boAADRli?format=jpg&name=4096x4096"
   },
   {
     "name": "Diona",
@@ -490,7 +490,7 @@
     "imageUrl": "https://pbs.twimg.com/media/Gg0X2FvaMAAKfLi?format=jpg&name=4096x4096"
   },
   {
-    "name": "Wanderer",
+    "name": "Scaramouche",
     "region": "Sumeru",
     "imageUrl": "https://pbs.twimg.com/media/GgVgO-obIAAUSn3?format=jpg&name=4096x4096"
   },

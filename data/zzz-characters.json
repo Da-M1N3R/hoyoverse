@@ -1,17 +1,237 @@
 [
   {
     "name": "Yixuan",
-    "region": "Hollows",
+    "region": "Yunkui Summit",
     "imageUrl": "https://pbs.twimg.com/media/G7KNEiUXsAAreZu?format=jpg&name=large"
   },
   {
+    "name": "Ukinami Yuzuha",
+    "region": "Spook Shack",
+    "imageUrl": "https://pbs.twimg.com/media/G4rBFgiWgAEKRMw?format=jpg&name=large"
+  },
+  {
+    "name": "Hoshimi Miyabi",
+    "region": "Hollow Special Operations Section 6",
+    "imageUrl": "https://pbs.twimg.com/media/GtxyvJ6XUAEjpio?format=jpg&name=large"
+  },
+  {
+    "name": "Tsukishiro Yanagi",
+    "region": "Hollow Special Operations Section 6",
+    "imageUrl": "https://pbs.twimg.com/media/G1V7nQRWUAA87Jg?format=jpg&name=large"
+  },
+  {
+    "name": "Soukaku",
+    "region": "Hollow Special Operations Section 6",
+    "imageUrl": "https://pbs.twimg.com/media/Gh56-OsaIAAxxeJ?format=png&name=large"
+  },
+  {
+    "name": "Ye Shunguang",
+    "region": "Yunkui Summit",
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/94/Agent_Ye_Shunguang_Icon.png/"
+  },
+  {
+    "name": "Zhao",
+    "region": "Krampus Compliance Authority",
+    "imageUrl": ""
+  },
+  {
+    "name": "Pan Yinhu",
+    "region": "Yunkui Summit",
+    "imageUrl": ""
+  },
+  {
+    "name": "Pulchra Fellini",
+    "region": "Sons of Calydon",
+    "imageUrl": "https://pbs.twimg.com/media/Gtx5nl7XkAAXh8T?format=jpg&name=large"
+  },
+  {
+    "name": "Von Lycaon",
+    "region": "Victoria Housekeeping Co.",
+    "imageUrl": "https://pbs.twimg.com/media/G2Vs0buWMAAOvRH?format=jpg&name=large"
+  },
+  {
+    "name": "Luciana de Montefio",
+    "region": "Sons of Calydon",
+    "imageUrl": "https://pbs.twimg.com/media/GySLyd6WMAEy1bS?format=jpg&name=medium"
+  },
+  {
+    "name": "Asaba Harumasa",
+    "region": "Hollow Special Operations Section 6",
+    "imageUrl": "https://pbs.twimg.com/media/GwMSbiHXUAANVHS?format=jpg&name=large"
+  },
+  {
+    "name": "Alexandrina Sebastiane",
+    "region": "Victoria Housekeeping Co.",
+    "imageUrl": "https://pbs.twimg.com/media/G1gOywgXsAEH_UU?format=jpg&name=large"
+  },
+  {
+    "name": "Corin Wickes",
+    "region": "Victoria Housekeeping Co.",
+    "imageUrl": "https://pbs.twimg.com/media/GsaWk18WIAAgDOH?format=jpg&name=large"
+  },
+  {
+    "name": "Nekomiya Mana",
+    "region": "Cunning Hares",
+    "imageUrl": "https://pbs.twimg.com/media/GxE78VQWEAA3eFv?format=jpg&name=large"
+  },
+  {
+    "name": "Nicole Demara",
+    "region": "Cunning Hares",
+    "imageUrl": "https://pbs.twimg.com/media/GcEbmraacAAaYqH?format=jpg&name=large"
+  },
+  {
+    "name": "Anby Demara",
+    "region": "Cunning Hares",
+    "imageUrl": "https://pbs.twimg.com/media/GkJYIxhbkAAn2yX?format=jpg&name=large"
+  },
+  {
+    "name": "Piper Wheel",
+    "region": "Sons of Calydon",
+    "imageUrl": "https://pbs.twimg.com/media/G3sxK0iXUAAsUTN?format=jpg&name=large"
+  },
+  {
+    "name": "Billy Kid",
+    "region": "Cunning Hares",
+    "imageUrl": "https://pbs.twimg.com/media/G6hopc6W8AArg_v?format=jpg&name=large"
+  },
+  {
+    "name": "Seth Lowell",
+    "region": "Criminal Investigation Special Response Team",
+    "imageUrl": "https://pbs.twimg.com/media/Gn7tlbzaUAAbzsV?format=jpg&name=large"
+  },
+  {
+    "name": "Anton Ivanov",
+    "region": "Belobog Heavy Industries",
+    "imageUrl": "https://pbs.twimg.com/media/Gp6mbRdWEAA5GhY?format=jpg&name=large"
+  },
+  {
+    "name": "Ben Bigger",
+    "region": "Belobog Heavy Industries",
+    "imageUrl": "https://pbs.twimg.com/media/G8xM4WPWMAAMj4X?format=jpg&name=large"
+  },
+  {
     "name": "Seed",
-    "region": "Hollows",
+    "region": "Defense Force - Obol Squad",
     "imageUrl": "https://pbs.twimg.com/media/G6Szs81XoAAJcEc?format=jpg&name=large"
   },
   {
-    "name": "Orphie & Magus",
-    "region": "Obol Squad",
+    "name": "Orphie Magnusson & Magus",
+    "region": "Defense Force - Obol Squad",
     "imageUrl": "https://pbs.twimg.com/media/G4vNVjdXoAAwRsE?format=jpg&name=large"
+  },
+  {
+    "name": "Komano Manato",
+    "region": "Spook Shack",
+    "imageUrl": ""
+  },
+  {
+    "name": "Grace Howard",
+    "region": "Belobog Heavy Industries",
+    "imageUrl": "https://pbs.twimg.com/media/GofANdRWMAMCO0S?format=jpg&name=large"
+  },
+  {
+    "name": "Banyue",
+    "region": "Krampus Compliance Authority",
+    "imageUrl": "https://pbs.twimg.com/media/G8HUsDeXIAI9fOm?format=jpg&name=large"
+  },
+  {
+    "name": "Dialyn",
+    "region": "Krampus Compliance Authority",
+    "imageUrl": ""
+  },
+  {
+    "name": "Yidhari Murphy",
+    "region": "Spook Shack",
+    "imageUrl": ""
+  },
+  {
+    "name": "Lucia Elowen",
+    "region": "Spook Shack",
+    "imageUrl": ""
+  },
+  {
+    "name": "Alice Thymefield",
+    "region": "Spook Shack",
+    "imageUrl": "https://pbs.twimg.com/media/Gzkop__XIAAiljv?format=jpg&name=large"
+  },
+  {
+    "name": "Ju Fufu",
+    "region": "Yunkui Summit",
+    "imageUrl": ""
+  },
+  {
+    "name": "Hugo Vlad",
+    "region": "Mockingbird",
+    "imageUrl": "https://pbs.twimg.com/media/GyxIvTiWkAAK44b?format=jpg&name=large"
+  },
+  {
+    "name": "Vivan Banshee",
+    "region": "Mockingbird",
+    "imageUrl": ""
+  },
+  {
+    "name": "Evelyn Chevalier",
+    "region": "Stars of Lyra",
+    "imageUrl": "https://pbs.twimg.com/media/G2j579FWcAAIdBS?format=jpg&name=large"
+  },
+  {
+    "name": "Astra Yao",
+    "region": "Stars of Lyra",
+    "imageUrl": "https://pbs.twimg.com/media/Gij6iJnbYAAR13N?format=jpg&name=large"
+  },
+  {
+    "name": "Jane Doe",
+    "region": "Criminal Investigation Special Response Team",
+    "imageUrl": "https://pbs.twimg.com/media/Gj4XSc6boAAAJNh?format=jpg&name=large"
+  },
+  {
+    "name": "Qingyi",
+    "region": "Criminal Investigation Special Response Team",
+    "imageUrl": "https://pbs.twimg.com/media/GgLGSnGbYAAzxYL?format=jpg&name=large"
+  },
+  {
+    "name": "Zhu Yuan",
+    "region": "Criminal Investigation Special Response Team",
+    "imageUrl": "https://pbs.twimg.com/media/Gzu70O0WwAAsfkb?format=jpg&name=large"
+  },
+  {
+    "name": "Trigger",
+    "region": "Defense Force - Obol Squad",
+    "imageUrl": "https://pbs.twimg.com/media/GpBhgsmbkAAlOJp?format=jpg&name=large"
+  },
+  {
+    "name": "Soldier 0 - Anby",
+    "region": "Defense Force - Silver Squad",
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/95/Agent_Soldier_0_-_Anby_Icon.png/"
+  },
+  {
+    "name": "Soldier 11",
+    "region": "Defense Force - Obol Squad",
+    "imageUrl": "https://pbs.twimg.com/media/Gmi4RcbXYAAvaL8?format=jpg&name=large"
+  },
+  {
+    "name": "Lighter",
+    "region": "Sons of Calydon",
+    "imageUrl": "https://pbs.twimg.com/media/GfxS0vBaQAE2_Gj?format=jpg&name=large"
+  },
+  {
+    "name": "Burnice White",
+    "region": "Sons of Calydon",
+    "imageUrl": "https://pbs.twimg.com/media/Grmv1LvWIAAUG8U?format=jpg&name=large"
+  },
+  {
+    "name": "Caesar King",
+    "region": "Sons of Calydon",
+    "imageUrl": "https://pbs.twimg.com/media/GmIjtYaWEAA633b?format=jpg&name=large"
+  },
+  {
+    "name": "Koleda Belobog",
+    "region": "Belobog Heavy Industries",
+    "imageUrl": "https://pbs.twimg.com/media/Gx9lbZZWYAAWC7x?format=jpg&name=large"
+  },
+  {
+    "name": "Ellen Joe",
+    "region": "Victoria Housekeeping Co.",
+    "imageUrl": "https://pbs.twimg.com/media/GgagDt9akAAKohj?format=jpg&name=large"
   }
 ]
