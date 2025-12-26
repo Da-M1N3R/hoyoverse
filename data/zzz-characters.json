@@ -5,11 +5,6 @@
     "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b3/Zenless_Zone_Zero_Version_2.0_Character_Avatars_Yixuan01.png/"
   },
   {
-    "name": "Ukinami Yuzuha",
-    "region": "Spook Shack",
-    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/5f/Zenless_Zone_Zero_Version_2.1_Character_Avatars_Yuzuha01.png/"
-  },
-  {
     "name": "Hoshimi Miyabi",
     "region": "Hollow Special Operations Section 6",
     "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/46/Zenless_Zone_Zero_Version_1.4_Character_Avatars_Miyabi02.png/"
@@ -22,17 +17,22 @@
   {
     "name": "Caesar King",
     "region": "Sons of Calydon",
-    "imageUrl": "https://pbs.twimg.com/media/GmIjtYaWEAA633b?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/95/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_4_Caesar02.png/"
   },
   {
     "name": "Koleda Belobog",
     "region": "Belobog Heavy Industries",
-    "imageUrl": "https://pbs.twimg.com/media/Gx9lbZZWYAAWC7x?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_1_Koleda.png/"
   },
   {
     "name": "Soukaku",
     "region": "Hollow Special Operations Section 6",
     "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/73/%22A_Sandwich_Scented_Dream%22_Sticker_Soukaku_What_the.png/"
+  },
+  {
+    "name": "Ukinami Yuzuha",
+    "region": "Spook Shack",
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/5f/Zenless_Zone_Zero_Version_2.1_Character_Avatars_Yuzuha01.png/"
   },
   {
     "name": "Alice Thymefield",
@@ -42,7 +42,7 @@
   {
     "name": "Zhao",
     "region": "Krampus Compliance Authority",
-    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a6/Agent_Zhao_Portrait.png/"
+    "imageUrl": ""
   },
   {
     "name": "Pan Yinhu",
@@ -62,17 +62,17 @@
   {
     "name": "Pulchra Fellini",
     "region": "Sons of Calydon",
-    "imageUrl": "https://pbs.twimg.com/media/Gtx5nl7XkAAXh8T?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/99/Zenless_Zone_Zero_Version_1.6_Character_Avatars_Pulchra02.png/"
   },
   {
     "name": "Von Lycaon",
     "region": "Victoria Housekeeping Co.",
-    "imageUrl": "https://pbs.twimg.com/media/G2Vs0buWMAAOvRH?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/%22A_Sandwich_Scented_Dream%22_Sticker_Von_Lycaon_Fight.png/"
   },
   {
     "name": "Luciana de Montefio",
     "region": "Sons of Calydon",
-    "imageUrl": "https://pbs.twimg.com/media/GySLyd6WMAEy1bS?format=jpg&name=medium"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/be/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_4_Lucy02.png/"
   },
   {
     "name": "Asaba Harumasa",
@@ -82,67 +82,72 @@
   {
     "name": "Alexandrina Sebastiane",
     "region": "Victoria Housekeeping Co.",
-    "imageUrl": "https://pbs.twimg.com/media/G1gOywgXsAEH_UU?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a7/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_2_Rina.png/"
   },
   {
     "name": "Corin Wickes",
     "region": "Victoria Housekeeping Co.",
-    "imageUrl": "https://pbs.twimg.com/media/GsaWk18WIAAgDOH?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/0f/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_1_Corin.png/"
   },
   {
     "name": "Zhu Yuan",
     "region": "Criminal Investigation Special Response Team",
-    "imageUrl": "https://pbs.twimg.com/media/Gzu70O0WwAAsfkb?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/c4/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_3_Zhu_Yuan02.png/"
+  },
+  {
+    "name": "Qingyi",
+    "region": "Criminal Investigation Special Response Team",
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/65/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_3_Qingyi02.png/"
   },
   {
     "name": "Nicole Demara",
     "region": "Cunning Hares",
-    "imageUrl": "https://pbs.twimg.com/media/GcEbmraacAAaYqH?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/d8/%22A_Sandwich_Scented_Dream%22_Sticker_Nicole_Demara_Hehehe.png/"
   },
   {
     "name": "Anby Demara",
     "region": "Cunning Hares",
-    "imageUrl": "https://pbs.twimg.com/media/GkJYIxhbkAAn2yX?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/51/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_1_Anby.png/"
   },
   {
     "name": "Nekomiya Mana",
     "region": "Cunning Hares",
-    "imageUrl": "https://pbs.twimg.com/media/GxE78VQWEAA3eFv?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a7/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_1_Nekomata.png/"
   },
   {
     "name": "Piper Wheel",
     "region": "Sons of Calydon",
-    "imageUrl": "https://pbs.twimg.com/media/G3sxK0iXUAAsUTN?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/5f/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_4_Piper01.png/"
   },
   {
     "name": "Billy Kid",
     "region": "Cunning Hares",
-    "imageUrl": "https://pbs.twimg.com/media/G6hopc6W8AArg_v?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/42/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_1_Billy.png/"
   },
   {
     "name": "Seth Lowell",
     "region": "Criminal Investigation Special Response Team",
-    "imageUrl": "https://pbs.twimg.com/media/Gn7tlbzaUAAbzsV?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7f/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_3_Seth01.png/"
   },
   {
     "name": "Anton Ivanov",
     "region": "Belobog Heavy Industries",
-    "imageUrl": "https://pbs.twimg.com/media/Gp6mbRdWEAA5GhY?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/03/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_2_Anton.png/"
   },
   {
     "name": "Ben Bigger",
     "region": "Belobog Heavy Industries",
-    "imageUrl": "https://pbs.twimg.com/media/G8xM4WPWMAAMj4X?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/67/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_2_Ben.png/"
   },
   {
     "name": "Seed",
     "region": "Defense Force - Obol Squad",
-    "imageUrl": "https://pbs.twimg.com/media/G6Szs81XoAAJcEc?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/d6/Zenless_Zone_Zero_Version_2.2_Character_Avatars_Seed_02.png/"
   },
   {
     "name": "Orphie Magnusson & Magus",
     "region": "Defense Force - Obol Squad",
-    "imageUrl": "https://pbs.twimg.com/media/G4vNVjdXoAAwRsE?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/5d/Zenless_Zone_Zero_Version_2.2_Character_Avatars_Orphie_%26_Magus02.png/"
   },
   {
     "name": "Komano Manato",
@@ -152,17 +157,17 @@
   {
     "name": "Grace Howard",
     "region": "Belobog Heavy Industries",
-    "imageUrl": "https://pbs.twimg.com/media/GofANdRWMAMCO0S?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7c/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_1_Grace_Howard.png/"
   },
   {
     "name": "Banyue",
     "region": "Krampus Compliance Authority",
-    "imageUrl": "https://pbs.twimg.com/media/G8HUsDeXIAI9fOm?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/3a/Zenless_Zone_Zero_Version_2.4_Character_Avatars_Banyue_01.png/"
   },
   {
     "name": "Dialyn",
     "region": "Krampus Compliance Authority",
-    "imageUrl": ""
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/3c/Zenless_Zone_Zero_Version_2.4_Character_Avatars_Dialyn_02.png/"
   },
   {
     "name": "Yidhari Murphy",
@@ -177,61 +182,56 @@
   {
     "name": "Hugo Vlad",
     "region": "Mockingbird",
-    "imageUrl": "https://pbs.twimg.com/media/GyxIvTiWkAAK44b?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f0/Zenless_Zone_Zero_Version_1.7_Character_Avatars_Hugo01.png/"
   },
   {
     "name": "Vivan Banshee",
     "region": "Mockingbird",
-    "imageUrl": ""
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/15/Zenless_Zone_Zero_Version_1.7_Character_Avatars_Vivian02.png/"
   },
   {
     "name": "Evelyn Chevalier",
     "region": "Stars of Lyra",
-    "imageUrl": "https://pbs.twimg.com/media/G2j579FWcAAIdBS?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/0b/Zenless_Zone_Zero_Version_1.5_Character_Avatars_Evelyn01.png/"
   },
   {
     "name": "Astra Yao",
     "region": "Stars of Lyra",
-    "imageUrl": "https://pbs.twimg.com/media/Gij6iJnbYAAR13N?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/ce/Zenless_Zone_Zero_Version_1.5_Character_Avatars_AstraYao01.png/"
   },
   {
     "name": "Jane Doe",
     "region": "Criminal Investigation Special Response Team",
-    "imageUrl": "https://pbs.twimg.com/media/Gj4XSc6boAAAJNh?format=jpg&name=large"
-  },
-  {
-    "name": "Qingyi",
-    "region": "Criminal Investigation Special Response Team",
-    "imageUrl": "https://pbs.twimg.com/media/GgLGSnGbYAAzxYL?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7c/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_3_Jane02.png/"
   },
   {
     "name": "Trigger",
     "region": "Defense Force - Obol Squad",
-    "imageUrl": "https://pbs.twimg.com/media/GpBhgsmbkAAlOJp?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/16/Zenless_Zone_Zero_Version_1.6_Character_Avatars_Trigger02.png/"
   },
   {
     "name": "Soldier 0 - Anby",
     "region": "Defense Force - Silver Squad",
-    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/95/Agent_Soldier_0_-_Anby_Icon.png/"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/eb/Zenless_Zone_Zero_Version_1.6_Character_Avatars_Soldier_0_-_Anby01.png/"
   },
   {
     "name": "Soldier 11",
     "region": "Defense Force - Obol Squad",
-    "imageUrl": "https://pbs.twimg.com/media/Gmi4RcbXYAAvaL8?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/73/%22A_Sandwich_Scented_Dream%22_Sticker_Soldier_11_uhhh.png/"
   },
   {
     "name": "Lighter",
     "region": "Sons of Calydon",
-    "imageUrl": "https://pbs.twimg.com/media/GfxS0vBaQAE2_Gj?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/03/Zenless_Zone_Zero_Version_1.3_Character_Avatars_Lighter02.png/"
   },
   {
     "name": "Burnice White",
     "region": "Sons of Calydon",
-    "imageUrl": "https://pbs.twimg.com/media/Grmv1LvWIAAUG8U?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/41/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_4_Burnice01.png/"
   },
   {
     "name": "Ellen Joe",
     "region": "Victoria Housekeeping Co.",
-    "imageUrl": "https://pbs.twimg.com/media/GgagDt9akAAKohj?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/5e/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_2_Ellen.png/"
   }
 ]
