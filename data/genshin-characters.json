@@ -11,6 +11,7 @@
   },
   {
     "name": "Raiden Ei",
+    "shortname": "Ei",
     "region": "Inazuma",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Icon_Emoji_Paimon%27s_Paintings_13_Raiden_Shogun_2.png/"
   },
@@ -21,6 +22,7 @@
   },
   {
     "name": "Furina de Fontaine",
+    "shortname": "Furina",
     "region": "Fontaine",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Icon_Emoji_Paimon%27s_Paintings_26_Furina_1.png/"
   },
@@ -31,11 +33,13 @@
   },
   {
     "name": "Columbina Hyposelenia",
+    "shortname": "Columbina",
     "region": "Nod-Krai",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Icon_Emoji_Paimon%27s_Paintings_44_Columbina_1.png/"
   },
   {
     "name": "Mona Megistus",
+    "shortname": "Mona",
     "region": "Mondstadt",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Icon_Emoji_Paimon%27s_Paintings_20_Mona_1.png/"
   },
@@ -71,6 +75,7 @@
   },
   {
     "name": "Kaeya Alberich",
+    "shortname": "Kaeya",
     "region": "Mondstadt",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Icon_Emoji_Paimon%27s_Paintings_25_Kaeya_2.png/"
   },
@@ -91,6 +96,7 @@
   },
   {
     "name": "Yip Gaming",
+    "shortname": "Gaming",
     "region": "Liyue",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Icon_Emoji_Paimon%27s_Paintings_30_Gaming_4.png/"
   },
@@ -111,21 +117,25 @@
   },
   {
     "name": "Kamisato Ayato",
+    "shortname": "Ayato",
     "region": "Inazuma",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Icon_Emoji_Paimon%27s_Paintings_14_Kamisato_Ayato_2.png/"
   },
   {
     "name": "Kamisato Ayaka",
+    "shortname": "Ayaka",
     "region": "Inazuma",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/c/c6/Icon_Emoji_Paimon%27s_Paintings_08_Kamisato_Ayaka_4.png/"
   },
   {
     "name": "Kaedehara Kazuha",
+    "shortname": "Kazuha",
     "region": "Inazuma",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Icon_Emoji_Paimon%27s_Paintings_16_Kaedehara_Kazuha_2.png/"
   },
   {
     "name": "Eula Lawrence",
+    "shortname": "Eula",
     "region": "Mondstadt",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Icon_Emoji_Paimon%27s_Paintings_06_Eula_1.png/"
   },
@@ -146,6 +156,7 @@
   },
   {
     "name": "Kyryll Chudomirovich Flins",
+    "shortname": "Flins",
     "region": "Nod-Krai",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Icon_Emoji_Paimon%27s_Paintings_43_Flins_1.png/"
   },
@@ -246,11 +257,13 @@
   },
   {
     "name": "Navia Caspar",
+    "shortname": "Navia",
     "region": "Fontaine",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Icon_Emoji_Paimon%27s_Paintings_29_Navia_2.png/"
   },
   {
     "name": "Mika Schmidt",
+    "shortname": "Mika",
     "region": "Mondstadt",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Icon_Emoji_Paimon%27s_Paintings_43_Mika_1.png/"
   },
@@ -286,11 +299,13 @@
   },
   {
     "name": "Kuki Shinobu",
+    "shortname": "Shinobu",
     "region": "Inazuma",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Icon_Emoji_Paimon%27s_Paintings_32_Kuki_Shinobu_1.png/"
   },
   {
     "name": "Shikanoin Heizou",
+    "shortname": "Heizou",
     "region": "Inazuma",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Icon_Emoji_Paimon%27s_Paintings_16_Shikanoin_Heizou_4.png/"
   },
@@ -301,6 +316,7 @@
   },
   {
     "name": "Kujou Sara",
+    "shortname": "Sara",
     "region": "Inazuma",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Icon_Emoji_Paimon%27s_Paintings_09_Kujou_Sara_1.png/"
   },
@@ -311,6 +327,7 @@
   },
   {
     "name": "Barbara Pegg",
+    "shortname": "Barbara",
     "region": "Mondstadt",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Icon_Emoji_Paimon%27s_Paintings_07_Barbara_4.png/"
   },
@@ -326,6 +343,7 @@
   },
   {
     "name": "Lisa Minci",
+    "shortname": "Lisa",
     "region": "Mondstadt",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Icon_Emoji_Paimon%27s_Paintings_31_Lisa_1.png/"
   },
@@ -336,6 +354,7 @@
   },
   {
     "name": "Arataki Itto",
+    "shortname": "Itto",
     "region": "Inazuma",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Icon_Emoji_Paimon%27s_Paintings_15_Arataki_Itto_2.png/"
   },
@@ -346,6 +365,7 @@
   },
   {
     "name": "Fischl von Luftschloss Narfidort",
+    "shortname": "Fischl",
     "region": "Mondstadt",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Icon_Emoji_Paimon%27s_Paintings_04_Fischl_2.png/"
   },
@@ -371,6 +391,7 @@
   },
   {
     "name": "Diluc Ragnvindr",
+    "shortname": "Diluc",
     "region": "Mondstadt",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Icon_Emoji_Paimon%27s_Paintings_31_Diluc_1.png/"
   },
@@ -416,11 +437,13 @@
   },
   {
     "name": "Yumemizuki Mizuki",
+    "shortname": "Mizuki",
     "region": "Inazuma",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Icon_Emoji_Paimon%27s_Paintings_39_Yumemizuki_Mizuki_3.png/"
   },
   {
     "name": "Jean Gunnhildr",
+    "shortname": "Jean",
     "region": "Mondstadt",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Icon_Emoji_Paimon%27s_Paintings_41_Jean_1.png/"
   },
@@ -441,6 +464,7 @@
   },
   {
     "name": "Sangonomiya Kokomi",
+    "shortname": "Kokomi",
     "region": "Inazuma",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Icon_Emoji_Paimon%27s_Paintings_13_Sangonomiya_Kokomi_2.png/"
   },

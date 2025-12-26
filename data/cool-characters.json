@@ -1,28 +1,88 @@
 [
   {
+    "name": "Hoshimi Miyabi",
+    "region": "Void Hunter",
+    "imageUrl": "https://scontent.fkul10-2.fna.fbcdn.net/v/t39.30808-6/475400636_493228537147673_448091988007201345_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3nUKS2OGs8oQ7kNvwE8ZWfT&_nc_oc=AdkaYLdKEJmNEmYlNRRFx0yQ79sLffuStlTliDgKIA6GHG78tutcGknm6CVSbJRSQHEYiIVB7CdkASGK_kcHD5IG&_nc_zt=23&_nc_ht=scontent.fkul10-2.fna&_nc_gid=_rf-MGF-zQt8XuiuYsvtNQ&oh=00_AflI87OfddIIMQn7y_a_Jbfo8kMnKvelpHJFW2Sm_S4iKg&oe=69546C2B"
+  },
+  {
+    "name": "Ye Shunguang",
+    "region": "Void Hunter",
+    "imageUrl": "https://pbs.twimg.com/media/G6BpD6tWQAAulGi?format=jpg&name=medium"
+  },
+  {
+    "name": "Zhao",
+    "region": "",
+    "imageUrl": "https://pbs.twimg.com/media/G5tQbx1XcAArFsg?format=jpg&name=medium"
+  },
+  {
+    "name": "Ukinami Yuzuha",
+    "region": "",
+    "imageUrl": "https://pbs.twimg.com/media/Gs6bpKoWgAA52V_?format=jpg&name=medium"
+  },
+  {
+    "name": "Yixuan",
+    "region": "Void Hunter",
+    "imageUrl": "https://pbs.twimg.com/media/GpbYfxpbEAQz_2n?format=jpg&name=large"
+  },
+  {
+    "name": "Lucia Elowen",
+    "region": "",
+    "imageUrl": "https://pbs.twimg.com/media/G1_09-sWgAAVJ53?format=jpg&name=medium"
+  },
+  {
+    "name": "Qingyi",
+    "region": "",
+    "imageUrl": "https://scontent.fkul10-2.fna.fbcdn.net/v/t39.30808-6/474974248_489661717504355_1034618149225418539_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ccW82JtM-awQ7kNvwGiRzu_&_nc_oc=AdkqYYsuAw5Kapg4JxEREEepDZKOkfT5U1RLctX4CHl1fYChA9XxC2Lq-gsRRMTT4MQRqaF9JkWgmn8Vjocdn9R1&_nc_zt=23&_nc_ht=scontent.fkul10-2.fna&_nc_gid=GIVj90sIxu4b62elY4f_mA&oh=00_Afl0UvztklzAbAbT4KOYWasj96i2A-iCkN9Vw7wlHy9YRg&oe=695484B5"
+  },
+  {
+    "name": "Tsukishiro Yanagi",
+    "region": "",
+    "imageUrl": "https://static.wikia.nocookie.net/3589d115-c343-4616-87c7-fd79c2371815"
+  },
+  {
+    "name": "Columbina Hyposelenia",
+    "region": "Archon",
+    "imageUrl": "https://pbs.twimg.com/media/G7xlhnjXYAAfXQg?format=jpg&name=large"
+  },
+  {
     "name": "Venti",
-    "region": "Mondstadt",
+    "region": "Archon",
     "imageUrl": "https://pbs.twimg.com/media/GtiWADFXgAAaAGX?format=jpg&name=4096x4096"
   },
   {
     "name": "Raiden Ei",
-    "region": "Inazuma",
+    "region": "Archon",
     "imageUrl": "https://pbs.twimg.com/media/GuV148YWQAAoR9E?format=jpg&name=4096x4096"
   },
   {
+    "name": "Neuvillette",
+    "region": "",
+    "imageUrl": "https://pbs.twimg.com/media/F3e7WbVaQAAgIbe?format=jpg&name=medium"
+  },
+  {
+    "name": "Flins",
+    "region": "",
+    "imageUrl": "https://pbs.twimg.com/media/Gxer31tWYAAddj6?format=jpg&name=large"
+  },
+  {
+    "name": "Lauma",
+    "region": "",
+    "imageUrl": "https://pbs.twimg.com/media/GxZigerXoAAzADa?format=jpg&name=large"
+  },
+  {
+    "name": "Yae Miko",
+    "region": "",
+    "imageUrl": "https://pbs.twimg.com/media/FWOob5vVEAAAAS8?format=jpg&name=4096x4096"
+  },
+  {
     "name": "Mavuika",
-    "region": "Natlan",
+    "region": "Archon",
     "imageUrl": "https://pbs.twimg.com/media/GzaSDCbWUAA2DKE?format=jpg&name=4096x4096"
   },
   {
     "name": "Xiao",
-    "region": "Liyue",
+    "region": "Adeptus",
     "imageUrl": "https://pbs.twimg.com/media/EzG2pXXVoAAcdGt?format=jpg&name=4096x4096"
-  },
-  {
-    "name": "Yae Miko",
-    "region": "Inazuma",
-    "imageUrl": "https://pbs.twimg.com/media/FWOob5vVEAAAAS8?format=jpg&name=4096x4096"
   },
   {
     "name": "Skirk",
@@ -31,77 +91,42 @@
   },
   {
     "name": "Xiangling",
-    "region": "Liyue",
+    "region": "",
     "imageUrl": "https://pbs.twimg.com/media/FDJ7iBYVkAoJMxT?format=jpg&name=4096x4096"
   },
   {
-    "name": "Kyryll Chudomirovich Flins",
-    "region": "Nod-Krai",
-    "imageUrl": "https://pbs.twimg.com/media/G4jnw-lWkAALU15?format=jpg&name=4096x4096"
-  },
-  {
-    "name": "Lauma",
-    "region": "Nod-Krai",
-    "imageUrl": ""
-  },
-  {
     "name": "Arlecchino",
-    "region": "Snezhnaya",
+    "region": "",
     "imageUrl": "https://pbs.twimg.com/media/Gy7YgQXXcAAIxMw?format=jpg&name=4096x4096"
   },
   {
     "name": "Klee",
-    "region": "Mondstadt",
+    "region": "",
     "imageUrl": "https://pbs.twimg.com/media/Gw1fLrpXEAA5Liu?format=jpg&name=4096x4096"
   },
   {
     "name": "Escoffier",
-    "region": "Fontaine",
+    "region": "",
     "imageUrl": "https://pbs.twimg.com/media/Gs5JRtSWwAAJIyb?format=jpg&name=4096x4096"
   },
   {
     "name": "Yelan",
-    "region": "Liyue",
+    "region": "",
     "imageUrl": "https://pbs.twimg.com/media/Go8dJQLbwAAPAnd?format=jpg&name=4096x4096"
   },
   {
     "name": "Xianyun",
-    "region": "Liyue",
+    "region": "Adeptus",
     "imageUrl": "https://pbs.twimg.com/media/GoONjSnaUAAyqtR?format=jpg&name=4096x4096"
   },
   {
     "name": "Ganyu",
-    "region": "Liyue",
+    "region": "Adeptus",
     "imageUrl": "https://pbs.twimg.com/media/Gdwr4G2aYAAdZ7a?format=jpg&name=medium"
   },
   {
     "name": "Shenhe",
-    "region": "Liyue",
+    "region": "Adeptus",
     "imageUrl": "https://pbs.twimg.com/media/GlphxeBbUAAad_0?format=jpg&name=4096x4096"
-  },
-  {
-    "name": "Yixuan",
-    "region": "Yunkui Summit",
-    "imageUrl": "https://pbs.twimg.com/media/G7KNEiUXsAAreZu?format=jpg&name=large"
-  },
-  {
-    "name": "Ukinami Yuzuha",
-    "region": "Spook Shack",
-    "imageUrl": "https://pbs.twimg.com/media/G4rBFgiWgAEKRMw?format=jpg&name=large"
-  },
-  {
-    "name": "Hoshimi Miyabi",
-    "region": "Hollow Special Operations Section 6",
-    "imageUrl": "https://pbs.twimg.com/media/GtxyvJ6XUAEjpio?format=jpg&name=large"
-  },
-  {
-    "name": "Tsukishiro Yanagi",
-    "region": "Hollow Special Operations Section 6",
-    "imageUrl": "https://pbs.twimg.com/media/G1V7nQRWUAA87Jg?format=jpg&name=large"
-  },
-  {
-    "name": "Ye Shunguang",
-    "region": "Yunkui Summit",
-    "imageUrl": ""
   }
 ]

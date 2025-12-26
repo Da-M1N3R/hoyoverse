@@ -1,7 +1,7 @@
 class CharacterGallery {
   constructor() {
     this.currentGame = "genshin";
-    this.teams = { genshin: [], zzz: [] };
+    this.teams = { genshin: [], zzz: [], cool: [] };
     this.setupEventListeners();
     this.loadRegions();
     this.loadCharacters();
@@ -15,6 +15,9 @@ class CharacterGallery {
     document
       .getElementById("zzz-toggle")
       .addEventListener("click", () => this.switchGame("zzz"));
+    document
+      .getElementById("cool-toggle")
+      .addEventListener("click", () => this.switchGame("cool"));
     document
       .getElementById("region-select")
       .addEventListener("change", () => this.loadCharacters());
@@ -67,7 +70,11 @@ class CharacterGallery {
     characterGrid.innerHTML = characters
       .map(
         (char) => `
-                <div class="character-card" data-name="${char.name}" data-region="${char.region}" data-image="${char.imageUrl}">
+                <div class="character-card" data-name="${
+                  char.name
+                }" data-shortname="${char.shortname || ""}" data-region="${
+          char.region
+        }" data-image="${char.imageUrl}">
                     <img src="${char.imageUrl}" alt="${char.name}">
                     <h3>${char.name}</h3>
                     <p>${char.region}</p>
@@ -109,15 +116,16 @@ class CharacterGallery {
   }
 
   showCharacterDetail(card) {
-    const name = card.dataset.name;
-    const region = card.dataset.region;
-    const image = card.dataset.image;
+    // const name = card.dataset.name;
+    // const region = card.dataset.region;
+    // const image = card.dataset.image;
+    const { name, region, image, shortname } = card.dataset;
 
     document.getElementById("detail-img").src = image;
     document.getElementById("detail-name").textContent = name;
     document.getElementById("detail-region").textContent = region;
 
-    this.currentCharacter = { name, region, imageUrl: image };
+    this.currentCharacter = { name, shortname, region, imageUrl: image };
     this.updateTeamButton();
 
     document.getElementById("character-detail").classList.remove("hidden");
@@ -172,15 +180,16 @@ class CharacterGallery {
       teamMembers.innerHTML = "<p>No characters in your team yet.</p>";
     } else {
       teamMembers.innerHTML = team
-        .map(
-          (char) => `
+        .map((char) => {
+          console.log("Current character data:", char); // Look at this in your Browser Console (F12)
+          return `
             <div class="team-member">
               <img src="${char.imageUrl}" alt="${char.name}">
-              <h4>${char.name}</h4>
-              <p>${char.region}</p>
+              <h4>${char.shortname || char.name}</h4>
+              
             </div>
-          `
-        )
+          `;
+        })
         .join("");
     }
   }
