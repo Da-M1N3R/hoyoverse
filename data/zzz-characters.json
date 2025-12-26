@@ -2,22 +2,22 @@
   {
     "name": "Yixuan",
     "region": "Yunkui Summit",
-    "imageUrl": "https://pbs.twimg.com/media/G7KNEiUXsAAreZu?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b3/Zenless_Zone_Zero_Version_2.0_Character_Avatars_Yixuan01.png/"
   },
   {
     "name": "Ukinami Yuzuha",
     "region": "Spook Shack",
-    "imageUrl": "https://pbs.twimg.com/media/G4rBFgiWgAEKRMw?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/5f/Zenless_Zone_Zero_Version_2.1_Character_Avatars_Yuzuha01.png/"
   },
   {
     "name": "Hoshimi Miyabi",
     "region": "Hollow Special Operations Section 6",
-    "imageUrl": "https://pbs.twimg.com/media/GtxyvJ6XUAEjpio?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/46/Zenless_Zone_Zero_Version_1.4_Character_Avatars_Miyabi02.png/"
   },
   {
     "name": "Tsukishiro Yanagi",
     "region": "Hollow Special Operations Section 6",
-    "imageUrl": "https://pbs.twimg.com/media/G1V7nQRWUAA87Jg?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f6/Zenless_Zone_Zero_Version_1.3_Character_Avatars_Yanagi02.png/"
   },
   {
     "name": "Caesar King",
@@ -32,7 +32,12 @@
   {
     "name": "Soukaku",
     "region": "Hollow Special Operations Section 6",
-    "imageUrl": "https://pbs.twimg.com/media/Gh56-OsaIAAxxeJ?format=png&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/73/%22A_Sandwich_Scented_Dream%22_Sticker_Soukaku_What_the.png/"
+  },
+  {
+    "name": "Alice Thymefield",
+    "region": "Spook Shack",
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/af/Zenless_Zone_Zero_Version_2.1_Character_Avatars_Alice01.png/"
   },
   {
     "name": "Zhao",
@@ -42,7 +47,12 @@
   {
     "name": "Pan Yinhu",
     "region": "Yunkui Summit",
-    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/8/87/Agent_Pan_Yinhu_Portrait.png/"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/49/Zenless_Zone_Zero_Version_2.0_Character_Avatars_Pan_Yinhu02.png/"
+  },
+  {
+    "name": "Ju Fufu",
+    "region": "Yunkui Summit",
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/23/Zenless_Zone_Zero_Version_2.0_Character_Avatars_Ju_Fufu01.png/"
   },
   {
     "name": "Ye Shunguang",
@@ -67,7 +77,7 @@
   {
     "name": "Asaba Harumasa",
     "region": "Hollow Special Operations Section 6",
-    "imageUrl": "https://pbs.twimg.com/media/GwMSbiHXUAANVHS?format=jpg&name=large"
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Zenless_Zone_Zero_Version_1.4_Character_Avatars_Harumasa02.png/"
   },
   {
     "name": "Alexandrina Sebastiane",
@@ -137,7 +147,7 @@
   {
     "name": "Komano Manato",
     "region": "Spook Shack",
-    "imageUrl": ""
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/8/85/Zenless_Zone_Zero_Version_2.3_Character_Avatars_Komano_Manato_02.png/"
   },
   {
     "name": "Grace Howard",
@@ -157,22 +167,12 @@
   {
     "name": "Yidhari Murphy",
     "region": "Spook Shack",
-    "imageUrl": ""
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b2/Zenless_Zone_Zero_Version_2.3_Character_Avatars_Yidhari_02.png/"
   },
   {
     "name": "Lucia Elowen",
     "region": "Spook Shack",
-    "imageUrl": ""
-  },
-  {
-    "name": "Alice Thymefield",
-    "region": "Spook Shack",
-    "imageUrl": "https://pbs.twimg.com/media/Gzkop__XIAAiljv?format=jpg&name=large"
-  },
-  {
-    "name": "Ju Fufu",
-    "region": "Yunkui Summit",
-    "imageUrl": ""
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/fd/Zenless_Zone_Zero_Version_2.3_Character_Avatars_Lucia_02.png/"
   },
   {
     "name": "Hugo Vlad",

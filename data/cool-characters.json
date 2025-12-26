@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Venti",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/GtiWADFXgAAaAGX?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Raiden Ei",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/GuV148YWQAAoR9E?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Mavuika",
+    "region": "Natlan",
+    "imageUrl": "https://pbs.twimg.com/media/GzaSDCbWUAA2DKE?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Xiao",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/EzG2pXXVoAAcdGt?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Yae Miko",
+    "region": "Inazuma",
+    "imageUrl": "https://pbs.twimg.com/media/FWOob5vVEAAAAS8?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Skirk",
+    "region": "Abyss",
+    "imageUrl": "https://pbs.twimg.com/media/G49U9gCWUAAKprI?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Xiangling",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/FDJ7iBYVkAoJMxT?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Kyryll Chudomirovich Flins",
+    "region": "Nod-Krai",
+    "imageUrl": "https://pbs.twimg.com/media/G4jnw-lWkAALU15?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Lauma",
+    "region": "Nod-Krai",
+    "imageUrl": ""
+  },
+  {
+    "name": "Arlecchino",
+    "region": "Snezhnaya",
+    "imageUrl": "https://pbs.twimg.com/media/Gy7YgQXXcAAIxMw?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Klee",
+    "region": "Mondstadt",
+    "imageUrl": "https://pbs.twimg.com/media/Gw1fLrpXEAA5Liu?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Escoffier",
+    "region": "Fontaine",
+    "imageUrl": "https://pbs.twimg.com/media/Gs5JRtSWwAAJIyb?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Yelan",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/Go8dJQLbwAAPAnd?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Xianyun",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/GoONjSnaUAAyqtR?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Ganyu",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/Gdwr4G2aYAAdZ7a?format=jpg&name=medium"
+  },
+  {
+    "name": "Shenhe",
+    "region": "Liyue",
+    "imageUrl": "https://pbs.twimg.com/media/GlphxeBbUAAad_0?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Yixuan",
+    "region": "Yunkui Summit",
+    "imageUrl": "https://pbs.twimg.com/media/G7KNEiUXsAAreZu?format=jpg&name=large"
+  },
+  {
+    "name": "Ukinami Yuzuha",
+    "region": "Spook Shack",
+    "imageUrl": "https://pbs.twimg.com/media/G4rBFgiWgAEKRMw?format=jpg&name=large"
+  },
+  {
+    "name": "Hoshimi Miyabi",
+    "region": "Hollow Special Operations Section 6",
+    "imageUrl": "https://pbs.twimg.com/media/GtxyvJ6XUAEjpio?format=jpg&name=large"
+  },
+  {
+    "name": "Tsukishiro Yanagi",
+    "region": "Hollow Special Operations Section 6",
+    "imageUrl": "https://pbs.twimg.com/media/G1V7nQRWUAA87Jg?format=jpg&name=large"
+  },
+  {
+    "name": "Ye Shunguang",
+    "region": "Yunkui Summit",
+    "imageUrl": ""
+  }
+]
