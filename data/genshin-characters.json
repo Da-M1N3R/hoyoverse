@@ -15,6 +15,16 @@
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Icon_Emoji_Teyvat_Times_Series_Paimon_12.png/"
   },
   {
+    "name": "Alice",
+    "region": "Mondstadt",
+    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Icon_Emoji_Paimon%27s_Paintings_46_Alice_1.png/"
+  },
+  {
+    "name": "Nicole",
+    "region": "idk",
+    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Icon_Emoji_Paimon%27s_Paintings_46_Nicole_1.png/"
+  },
+  {
     "name": "Venti",
     "region": "Mondstadt",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Icon_Emoji_Paimon%27s_Paintings_43_Venti_1.png/"
