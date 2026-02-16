@@ -20,6 +20,11 @@
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Icon_Emoji_Paimon%27s_Paintings_46_Alice_1.png/"
   },
   {
+    "name": "Varka",
+    "region": "Mondstadt",
+    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Icon_Emoji_Paimon%27s_Paintings_45_Varka_1.png/"
+  },
+  {
     "name": "Nicole",
     "region": "idk",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Icon_Emoji_Paimon%27s_Paintings_46_Nicole_1.png/"
@@ -612,11 +617,6 @@
     "name": "Rerir",
     "region": "Khaenri'ah",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Icon_Emoji_Paimon%27s_Paintings_45_Rerir_1.png/"
-  },
-  {
-    "name": "Varka",
-    "region": "Mondstadt",
-    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Icon_Emoji_Paimon%27s_Paintings_45_Varka_1.png/"
   },
   {
     "name": "Sandrone",
