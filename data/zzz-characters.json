@@ -11,10 +11,57 @@
     "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/46/Zenless_Zone_Zero_Version_1.4_Character_Avatars_Miyabi02.png/"
   },
   {
+    "name": "Ye Shunguang",
+    "shortname": "Xiao Guang",
+    "region": "Yunkui Summit",
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/58/Zenless_Zone_Zero_Version_2.5_Character_Avatars_YeShunguang02.png/"
+  },
+  {
+    "name": "Zhao",
+    "region": "Krampus Compliance Authority",
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/ce/Zenless_Zone_Zero_Version_2.5_Character_Avatars_Zhao01.png/"
+  },
+  {
+    "name": "Ukinami Yuzuha",
+    "shortname": "Yuzuha",
+    "region": "Spook Shack",
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/5f/Zenless_Zone_Zero_Version_2.1_Character_Avatars_Yuzuha01.png/"
+  },
+  {
     "name": "Tsukishiro Yanagi",
     "shortname": "Yanagi",
     "region": "Hollow Special Operations Section 6",
     "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f6/Zenless_Zone_Zero_Version_1.3_Character_Avatars_Yanagi02.png/"
+  },
+  {
+    "name": "Cissia",
+    "region": "Metropolitan Order Division",
+    "imageUrl": ""
+  },
+  {
+    "name": "Severian",
+    "region": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Nangong Yu",
+    "region": "Angels of Delusion",
+    "imageUrl": ""
+  },
+  {
+    "name": "Aria",
+    "region": "Angels of Delusion",
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7c/Zenless_Zone_Zero_Version_2.6_Character_Avatars_Aria01.png/"
+  },
+  {
+    "name": "Sunna",
+    "region": "Angels of Delusion",
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/60/Zenless_Zone_Zero_Version_2.6_Character_Avatars_Sunna02.png/"
+  },
+  {
+    "name": "Qingyi",
+    "region": "Criminal Investigation Special Response Team",
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/65/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_3_Qingyi02.png/"
   },
   {
     "name": "Caesar King",
@@ -34,21 +81,10 @@
     "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/73/%22A_Sandwich_Scented_Dream%22_Sticker_Soukaku_What_the.png/"
   },
   {
-    "name": "Ukinami Yuzuha",
-    "shortname": "Yuzuha",
-    "region": "Spook Shack",
-    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/5f/Zenless_Zone_Zero_Version_2.1_Character_Avatars_Yuzuha01.png/"
-  },
-  {
     "name": "Alice Thymefield",
     "shortname": "Alice",
     "region": "Spook Shack",
     "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/af/Zenless_Zone_Zero_Version_2.1_Character_Avatars_Alice01.png/"
-  },
-  {
-    "name": "Zhao",
-    "region": "Krampus Compliance Authority",
-    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/ce/Zenless_Zone_Zero_Version_2.5_Character_Avatars_Zhao01.png/"
   },
   {
     "name": "Pan Yinhu",
@@ -61,12 +97,6 @@
     "shortname": "Fufu",
     "region": "Yunkui Summit",
     "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/23/Zenless_Zone_Zero_Version_2.0_Character_Avatars_Ju_Fufu01.png/"
-  },
-  {
-    "name": "Ye Shunguang",
-    "shortname": "Xiao Guang",
-    "region": "Yunkui Summit",
-    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/58/Zenless_Zone_Zero_Version_2.5_Character_Avatars_YeShunguang02.png/"
   },
   {
     "name": "Pulchra Fellini",
@@ -108,11 +138,6 @@
     "name": "Zhu Yuan",
     "region": "Criminal Investigation Special Response Team",
     "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/c4/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_3_Zhu_Yuan02.png/"
-  },
-  {
-    "name": "Qingyi",
-    "region": "Criminal Investigation Special Response Team",
-    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/65/Zenless_Zone_Zero_Ridu_Stroll_Sticker_Pack_3_Qingyi02.png/"
   },
   {
     "name": "Nicole Demara",
