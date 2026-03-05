@@ -1,5 +1,25 @@
 [
   {
+    "name": "Alice",
+    "region": "Mondstadt",
+    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Icon_Emoji_Paimon%27s_Paintings_46_Alice_1.png/"
+  },
+  {
+    "name": "Varka",
+    "region": "Mondstadt",
+    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Icon_Emoji_Paimon%27s_Paintings_45_Varka_1.png/"
+  },
+  {
+    "name": "Neuvillette",
+    "region": "Fontaine",
+    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Icon_Emoji_Paimon%27s_Paintings_27_Neuvillette_1.png/"
+  },
+  {
+    "name": "Skirk",
+    "region": "Abyss",
+    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Icon_Emoji_Paimon%27s_Paintings_42_Skirk_1.png/"
+  },
+  {
     "name": "Aether",
     "region": "Outside",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Icon_Emoji_Paimon%27s_Paintings_42_Aether_1.png/"
@@ -13,16 +33,6 @@
     "name": "Paimon",
     "region": "Outside",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Icon_Emoji_Teyvat_Times_Series_Paimon_12.png/"
-  },
-  {
-    "name": "Alice",
-    "region": "Mondstadt",
-    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Icon_Emoji_Paimon%27s_Paintings_46_Alice_1.png/"
-  },
-  {
-    "name": "Varka",
-    "region": "Mondstadt",
-    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Icon_Emoji_Paimon%27s_Paintings_45_Varka_1.png/"
   },
   {
     "name": "Nicole",
@@ -87,11 +97,6 @@
     "name": "Alhaitham",
     "region": "Sumeru",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Icon_Emoji_Paimon%27s_Paintings_21_Alhaitham_1.png/"
-  },
-  {
-    "name": "Neuvillette",
-    "region": "Fontaine",
-    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Icon_Emoji_Paimon%27s_Paintings_27_Neuvillette_1.png/"
   },
   {
     "name": "Citlali",
@@ -173,11 +178,6 @@
     "name": "Sayu",
     "region": "Inazuma",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Icon_Emoji_Paimon%27s_Paintings_08_Sayu_1.png/"
-  },
-  {
-    "name": "Skirk",
-    "region": "Abyss",
-    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Icon_Emoji_Paimon%27s_Paintings_42_Skirk_1.png/"
   },
   {
     "name": "Xiangling",
