@@ -1,5 +1,15 @@
 [
   {
+    "name": "Varka",
+    "region": "",
+    "imageUrl": "https://pbs.twimg.com/media/G_UQgi3XUAAsEJ1?format=jpg&name=large"
+  },
+  {
+    "name": "Yixuan",
+    "region": "Void Hunter",
+    "imageUrl": "https://pbs.twimg.com/media/GpbYfxpbEAQz_2n?format=jpg&name=large"
+  },
+  {
     "name": "Hoshimi Miyabi",
     "region": "Void Hunter",
     "imageUrl": "https://scontent.fkul10-2.fna.fbcdn.net/v/t39.30808-6/475400636_493228537147673_448091988007201345_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3nUKS2OGs8oQ7kNvwE8ZWfT&_nc_oc=AdkaYLdKEJmNEmYlNRRFx0yQ79sLffuStlTliDgKIA6GHG78tutcGknm6CVSbJRSQHEYiIVB7CdkASGK_kcHD5IG&_nc_zt=23&_nc_ht=scontent.fkul10-2.fna&_nc_gid=_rf-MGF-zQt8XuiuYsvtNQ&oh=00_AflI87OfddIIMQn7y_a_Jbfo8kMnKvelpHJFW2Sm_S4iKg&oe=69546C2B"
@@ -18,11 +28,6 @@
     "name": "Ukinami Yuzuha",
     "region": "",
     "imageUrl": "https://pbs.twimg.com/media/Gs6bpKoWgAA52V_?format=jpg&name=medium"
-  },
-  {
-    "name": "Yixuan",
-    "region": "Void Hunter",
-    "imageUrl": "https://pbs.twimg.com/media/GpbYfxpbEAQz_2n?format=jpg&name=large"
   },
   {
     "name": "Lucia Elowen",
@@ -67,7 +72,7 @@
   {
     "name": "Lauma",
     "region": "",
-    "imageUrl": "https://pbs.twimg.com/media/GxZigerXoAAzADa?format=jpg&name=large"
+    "imageUrl": "https://pbs.twimg.com/media/HCQ1cvLXsAArrNN?format=jpg&name=large"
   },
   {
     "name": "Yae Miko",
