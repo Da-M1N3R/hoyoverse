@@ -5,14 +5,15 @@
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Icon_Emoji_Paimon%27s_Paintings_46_Alice_1.png/"
   },
   {
+    "name": "Raiden Shogun",
+    "shortname": "Ei",
+    "region": "Inazuma",
+    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Icon_Emoji_Paimon%27s_Paintings_13_Raiden_Shogun_2.png/"
+  },
+  {
     "name": "Varka",
     "region": "Mondstadt",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Icon_Emoji_Paimon%27s_Paintings_45_Varka_1.png/"
-  },
-  {
-    "name": "Linnea",
-    "region": "Mondstadt",
-    "imageUrl": ""
   },
   {
     "name": "Neuvillette",
@@ -23,6 +24,11 @@
     "name": "Skirk",
     "region": "Abyss",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Icon_Emoji_Paimon%27s_Paintings_42_Skirk_1.png/"
+  },
+  {
+    "name": "Venti",
+    "region": "Mondstadt",
+    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Icon_Emoji_Paimon%27s_Paintings_43_Venti_1.png/"
   },
   {
     "name": "Aether",
@@ -40,25 +46,19 @@
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Icon_Emoji_Teyvat_Times_Series_Paimon_12.png/"
   },
   {
+    "name": "Linnea",
+    "region": "Mondstadt",
+    "imageUrl": ""
+  },
+  {
     "name": "Nicole",
     "region": "idk",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Icon_Emoji_Paimon%27s_Paintings_46_Nicole_1.png/"
   },
   {
-    "name": "Venti",
-    "region": "Mondstadt",
-    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Icon_Emoji_Paimon%27s_Paintings_43_Venti_1.png/"
-  },
-  {
     "name": "Zhongli",
     "region": "Liyue",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Icon_Emoji_Paimon%27s_Paintings_12_Zhongli_1.png/"
-  },
-  {
-    "name": "Raiden Ei",
-    "shortname": "Ei",
-    "region": "Inazuma",
-    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Icon_Emoji_Paimon%27s_Paintings_13_Raiden_Shogun_2.png/"
   },
   {
     "name": "Nahida",
