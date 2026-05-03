@@ -90,17 +90,19 @@
   },
   {
     "name": "Velina Airgid",
-    "region": "",
+    "shortname": "Velina",
+    "region": "External Strategy Department",
     "imageUrl": ""
   },
   {
     "name": "Norma Hollowell",
-    "region": "",
+    "shortname": "Norma",
+    "region": "External Strategy Department",
     "imageUrl": ""
   },
   {
     "name": "Pyrois",
-    "region": "",
+    "region": "Phaethon",
     "imageUrl": ""
   },
   {
