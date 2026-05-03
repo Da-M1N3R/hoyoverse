@@ -51,9 +51,14 @@
     "imageUrl": ""
   },
   {
+    "name": "Lohen",
+    "region": "Mondstadt",
+    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Icon_Emoji_Paimon%27s_Paintings_48_Lohen_2.png/"
+  },
+  {
     "name": "Nicole",
-    "region": "idk",
-    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Icon_Emoji_Paimon%27s_Paintings_46_Nicole_1.png/"
+    "region": "Monstadt",
+    "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Icon_Emoji_Paimon%27s_Paintings_48_Nicole_2.png/"
   },
   {
     "name": "Zhongli",
