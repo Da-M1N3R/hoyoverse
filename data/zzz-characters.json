@@ -36,6 +36,31 @@
   {
     "name": "Cissia",
     "region": "Metropolitan Order Division",
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/56/Zenless_Zone_Zero_Version_2.7_Character_Avatars_Cissia01.png/"
+  },
+  {
+    "name": "Promeia",
+    "region": "Krampus Compliance Authority",
+    "imageUrl": ""
+  },
+  {
+    "name": "Starlight - Billy",
+    "region": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Remielle",
+    "region": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Sunbringer",
+    "region": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "The Storyteller",
+    "region": "",
     "imageUrl": ""
   },
   {
@@ -44,9 +69,44 @@
     "imageUrl": ""
   },
   {
+    "name": "Phoenix",
+    "region": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Sigrid",
+    "region": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Roxy",
+    "region": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Claret",
+    "region": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Velina Airgid",
+    "region": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Norma Hollowell",
+    "region": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Pyrois",
+    "region": "",
+    "imageUrl": ""
+  },
+  {
     "name": "Nangong Yu",
     "region": "Angels of Delusion",
-    "imageUrl": ""
+    "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/38/Zenless_Zone_Zero_Version_2.7_Character_Avatars_NangongYu01.png/"
   },
   {
     "name": "Aria",
