@@ -7,7 +7,7 @@
   {
     "name": "Raiden Shogun",
     "shortname": "Ei",
-    "region": "Inazuma",
+    "region": "Archon",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Icon_Emoji_Paimon%27s_Paintings_13_Raiden_Shogun_2.png/"
   },
   {
@@ -27,7 +27,7 @@
   },
   {
     "name": "Venti",
-    "region": "Mondstadt",
+    "region": "Archon",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Icon_Emoji_Paimon%27s_Paintings_43_Venti_1.png/"
   },
   {
@@ -67,23 +67,23 @@
   },
   {
     "name": "Zhongli",
-    "region": "Liyue",
+    "region": "Archon",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Icon_Emoji_Paimon%27s_Paintings_12_Zhongli_1.png/"
   },
   {
     "name": "Nahida",
-    "region": "Sumeru",
+    "region": "Archon",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Icon_Emoji_Paimon%27s_Paintings_23_Nahida_2.png/"
   },
   {
     "name": "Furina de Fontaine",
     "shortname": "Furina",
-    "region": "Fontaine",
+    "region": "Archon",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Icon_Emoji_Paimon%27s_Paintings_26_Furina_1.png/"
   },
   {
     "name": "Mavuika",
-    "region": "Natlan",
+    "region": "Archon",
     "imageUrl": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Icon_Emoji_Paimon%27s_Paintings_38_Mavuika_2.png/"
   },
   {
