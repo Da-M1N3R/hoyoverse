@@ -1,19 +1,19 @@
 [
   {
     "name": "Yixuan",
-    "region": "Yunkui Summit",
+    "region": "Grandmaster",
     "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b3/Zenless_Zone_Zero_Version_2.0_Character_Avatars_Yixuan01.png/"
   },
   {
     "name": "Hoshimi Miyabi",
     "shortname": "Miyabi",
-    "region": "Hollow Special Operations Section 6",
+    "region": "Void Hunter",
     "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/46/Zenless_Zone_Zero_Version_1.4_Character_Avatars_Miyabi02.png/"
   },
   {
     "name": "Ye Shunguang",
     "shortname": "Xiao Guang",
-    "region": "Yunkui Summit",
+    "region": "Void Hunter",
     "imageUrl": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/58/Zenless_Zone_Zero_Version_2.5_Character_Avatars_YeShunguang02.png/"
   },
   {
@@ -50,12 +50,12 @@
   },
   {
     "name": "Remielle",
-    "region": "",
+    "region": "Void Hunter",
     "imageUrl": ""
   },
   {
     "name": "Sunbringer",
-    "region": "",
+    "region": "Void Hunter",
     "imageUrl": ""
   },
   {
